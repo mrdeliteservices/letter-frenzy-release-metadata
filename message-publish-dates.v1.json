@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "policy": "Authoritative Message Center publication dates. TestFlight dates are App Store Connect acceptance/upload calendar dates (YYYY-MM-DD). Production dates are public App Store availability dates. DEV dates are intentional DEV-channel availability dates. Authoring/commit/build dates are not publication dates.",
+  "dates": {
+    "lf-first-launch-v1": {
+      "publishedOn": "2026-06-06",
+      "source": "dev_availability",
+      "notes": "First-launch onboarding availability date"
+    },
+    "lf-dev-build-16-v1": {
+      "publishedOn": "2026-07-10",
+      "source": "dev_availability",
+      "notes": "DEV Build 16 made available on the development channel"
+    },
+    "lf-testflight-build-16-v1": {
+      "publishedOn": "2026-07-24",
+      "source": "testflight_asc_acceptance",
+      "notes": "TestFlight Build 16 uploaded and accepted by App Store Connect on July 24, 2026"
+    }
+  }
+}
