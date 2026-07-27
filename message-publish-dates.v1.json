@@ -31,6 +31,11 @@
       "publishedOn": "2026-07-26",
       "source": "testflight_asc_acceptance",
       "notes": "TestFlight Build 19 uploaded and accepted by App Store Connect on July 26, 2026"
+    },
+    "lf-testflight-build-20-v1": {
+      "publishedOn": "2026-07-27",
+      "source": "testflight_asc_acceptance",
+      "notes": "TestFlight Build 20 uploaded and accepted by App Store Connect on July 27, 2026"
     }
   }
 }
